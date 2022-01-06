@@ -41,7 +41,12 @@
  Below we have several screenshots of the mobile application, displaying the main page and the collapsible view function.
   </p>
   
- <img src="images/sidebyside.png" alt="Logo" width="1445" height="540">
+ <img src="images/IMG_3549.png" alt="Logo" width="1445" height="540">
+ <img src="images/IMG_3550.png" alt="Logo" width="1445" height="540">
+ <img src="images/IMG_3551.png" alt="Logo" width="1445" height="540">
+ <img src="images/IMG_3552.png" alt="Logo" width="1445" height="540">
+ <img src="images/IMG_3553.png" alt="Logo" width="1445" height="540">
+ <img src="images/IMG_3554.png" alt="Logo" width="1445" height="540">
  <br />
 
 
