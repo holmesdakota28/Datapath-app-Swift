@@ -41,7 +41,7 @@
  Below we have several screenshots of the mobile application, displaying the main page and the collapsible view function.
   </p>
   
-  ![Poop]()
+  ![Poop](swift-datapath.gif)
   
  <img src="images/IMG_3549.jpg" alt="Logo" width="1445" height="540">
  <img src="images/IMG_3550.PNG" alt="Logo" width="275" height="540">
