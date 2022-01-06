@@ -42,7 +42,7 @@
   </p>
   
  <img src="images/IMG_3549.jpg" alt="Logo" width="1445" height="540">
- <img src="images/IMG_3550.PNG" alt="Logo" width="700" height="540">
+ <img src="images/IMG_3550.PNG" alt="Logo" width="350" height="540">
  <img src="images/IMG_3551.PNG" alt="Logo" width="1445" height="540">
  <img src="images/IMG_3552.PNG" alt="Logo" width="1445" height="540">
  <img src="images/IMG_3553.PNG" alt="Logo" width="1445" height="540">
